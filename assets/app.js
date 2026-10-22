@@ -11,7 +11,7 @@ const spinner = document.getElementById("spinner");
 
 
 
-const base_url="https://posts-50d7d-default-rtdb.firebaseio.com/";
+const base_url="";
 const posts_url=`${base_url}/posts.json`
 
 
